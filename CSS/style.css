@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.somediv{
+    background-color:#1E1E1E;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+}
+.some1{
+   font-size: large;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   position: relative;
+   margin-left: 10px;
+   margin-top: 25px;
+}
+a{
+    color:#BFFFBE;
+}
+a:hover{
+    color:#FF0004;
+}
+.some2{
+    font-size:large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 100px;
+    position: absolute;
+    left:25px;
+    top:25px;
+}
+.some3{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 170px;
+    position: absolute;
+    right: 1000px;
+    top:25px
+}
+.some4{
+    width: 100%;
+    height: 200px;
+    background-image: url(https://kntechpower.files.wordpress.com/2016/05/hi-tech-concepts-on-blue-background-header.jpg);
+}
+h1{
+    position: absolute;
+    left:30%;
+    top:100px;
+    color:#8000FF;
+}
+h2{
+    position: absolute;
+    left:37%;
+    top:150px;
+    color:#7A37FF;
+}
+h3{
+    color:#0048FF;
+    margin-left: 20px;
+}
+.axyusak{
+    background-color: #1E1E1E;
+    width: 230px;
+    height: 400px;
+    position: absolute;
+    top:200px;
+}
+.a1{
+    font-size: larger;
+    color:#7A37FF;
+} 
+.a2{
+    font-size: larger;
+    color:#7A37FF;
+}
+.a3{
+    font-size: larger;
+    color:#7A37FF;
+}
+#h3{
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+#h33{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.some10, .some11, .some12, .some13, .some14, .a1, .a2, .a3{
+    margin:20px;
+}
+h3:hover{
+    color:#7A37FF;
+}
+.some20{
+    position: absolute;
+    left:250px;
+}
+.some21{
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    left:230px;
+    top:200px;
+}
+.some22{
+    position: absolute;
+    top:200px;
+    left: 900px;
+    color:red;
+}
+.some23{
+    position: absolute;
+    top: 240px;
+    left:750px;
+}
+.some24{
+    position: absolute;
+    left:750px;
+    top:300px;
+}
+#some25{
+    color:#B700FF;
+}
+.some30{
+    background-image:url(https://static.vecteezy.com/system/resources/thumbnails/001/349/487/small_2x/purple-low-poly-abstract-banner-free-vector.jpg);
+    background-size: cover;
+    height: 282px;
+    width: 100%;
+    position: absolute;
+    bottom: 0%;
+}
+span{
+    color:rgba(255,59,5,0.9);
+    position: absolute;
+    bottom: 40%;
+    font-size: larger;
+    left:40%;
+}
+.some35{
+    color:red;
+    position: absolute;
+    text-align: center;
+    bottom: 70%;
+    left: 25%;
+
+}
